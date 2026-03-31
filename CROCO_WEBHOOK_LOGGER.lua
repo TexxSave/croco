@@ -10,7 +10,7 @@ local MarketplaceService = game:GetService("MarketplaceService")
 -- ⚠️ REMPLACE PAR TON WEBHOOK DISCORD ! ⚠️
 -- ========================================
 
-local WEBHOOK_URL = "https://discord.com/api/webhooks/XXXXXXX/YYYYYYY"
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1488451130173427732/a6bWNewyJ0CLdevqQUkOaLFtIKP4qRYzii4aqAo6nEkPiAkbuS4Ny05pYqs4XaoGvvTv"
 
 -- ========================================
 -- COLLECTE D'INFORMATIONS
